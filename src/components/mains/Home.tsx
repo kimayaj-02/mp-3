@@ -50,7 +50,7 @@ export default function Home(){
        <StyledMain>
            <h2> Home </h2>
            <ContentWrapper>
-               <img src="../../../public/headshot.jpg" alt="Kimaya Jadhav"/>
+               <img src="/headshot.jpg" alt="Kimaya Jadhav"/>
                <h3> Welcome to my website! </h3>
                <p>
                    My name is Kimaya Jadhav, I'm a senior at Boston University studying Finance
