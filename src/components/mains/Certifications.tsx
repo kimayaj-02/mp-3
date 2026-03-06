@@ -38,15 +38,15 @@ export default function Certifications(){
                 <ul>
                     <li>
                         Machine Learning Foundations - ECornell
-                        <img src="../../../public/ecornell.jpg" alt="eCornell Logo"/>
+                        <img src="/ecornell.jpg" alt="eCornell Logo"/>
                     </li>
                     <li>
                         Financial Services Cloud Data Modeling - Salesforce
-                        <img src="../../../public/salesforce.jpg" alt="Salesforce Logo"/>
+                        <img src="/salesforce.jpg" alt="Salesforce Logo"/>
                     </li>
                     <li>
                         Intro to Machine Learning & Data Visualization - Kaggle
-                        <img src="../../../public/kaggle.jpg" alt="Kaggle Logo"/>
+                        <img src="/kaggle.jpg" alt="Kaggle Logo"/>
                     </li>
                 </ul>
             </ContentWrapper>

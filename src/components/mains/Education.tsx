@@ -46,13 +46,13 @@ export default function Education(){
                     <li>Dean's List Spring 2024-Fall 2025</li>
 
                 </ul>
-                <img src="../../../public/bu.jpg" alt="Boston University Logo"/>
+                <img src="/bu.jpg" alt="Boston University Logo"/>
                 <h3> Rutgers University, Rutgers Business School </h3>
                 <ul>
                     <li>B.S. Major in Finance, Minor in CS</li>
                     <li>New Brunswick, NJ | September 2022 - May 2023</li>
                 </ul>
-                <img src="../../../public/rutgers.jpg" alt="Rutgers University Logo"/>
+                <img src="/rutgers.jpg" alt="Rutgers University Logo"/>
             </ContentWrapper>
         </StyledMain>
     );
